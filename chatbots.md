@@ -2,7 +2,7 @@
 - [Dialogflow by google](https://dialogflow.com)
 - [IBM Watson](https://www.ibm.com/cloud/watson-assistant)
 - [Amazon Lex](https://docs.aws.amazon.com/lex/index.html)
-- [Wit.ai by facebook](https://wit.ai)
+- [Wit.ai by facebook](https://wit.ai/docs)
 - [SAP Conversational AI](https://cai.tools.sap/developers)
 - [Smartly.ai](https://docs.smartly.ai/docs)
 - [smooch.io](https://docs.smooch.io/rest)
